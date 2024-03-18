@@ -1,0 +1,174 @@
+ {
+    "Alldishes": [
+        {
+            "image": "image/menu-img-1.jpg",
+            "star": "image/start-rating.png",
+            "header":"Grilled Marinated",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-2.jpg",
+            "star": "image/start-rating.png",
+            "header":"Fried Egg",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-3.jpg",
+            "star": "image/start-rating.png",
+            "header":"Sardine Spaghetti",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-4.jpg",
+            "star": "image/start-rating.png",
+            "header":"Ice Waffle",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-5.jpg",
+            "star": "image/start-rating.png",
+            "header":"Egg Omelet",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-6.jpg",
+            "star": "image/start-rating.png",
+            "header":"Gourmet meal",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu- img-7.jpg",
+            "star": "image/start-rating.png",
+            "header":"Bone Steak",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-8.jpg",
+            "star": "image/start-rating.png",
+            "header":"Aloo Gobi",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-9.jpg",
+            "star": "image/start-rating.png",
+            "header":"Special Dosa",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        }
+        
+    ],
+    "Breakfast": [
+        {
+            "image": "image/menu-img-1.jpg",
+            "star": "image/start-rating.png",
+            "header":"Grilled Marinated",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-3.jpg",
+            "star": "image/start-rating.png",
+            "header":"Sardine Spaghetti",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-5.jpg",
+            "star": "image/start-rating.png",
+            "header":"Egg Omelet",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-8.jpg",
+            "star": "image/start-rating.png",
+            "header":"Aloo Gobi",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-9.jpg",
+            "star": "image/start-rating.png",
+            "header":"Special Dosa",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-6.jpg",
+            "star": "image/start-rating.png",
+            "header":"Gourmet meal",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        }
+        
+    ],
+    "Lunch": [
+        {
+            "image": "image/menu-img-1.jpg",
+            "star": "image/start-rating.png",
+            "header":"",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+        },
+        {
+            "image": "image/menu-img-9.jpg",
+            "star": "image/start-rating.png",
+            "header":"Special Dosa",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-3.jpg",
+            "star": "image/start-rating.png",
+            "header":"Sardine Spaghetti",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-10.jpg",
+            "star": "image/start-rating.png",
+            "header":"Special Noodels",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+        },
+
+        {
+            "image": "image/menu-img-8.jpg",
+            "star": "image/start-rating.png",
+            "header":"Aloo Gobi",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-11.jpg",
+            "star": "image/start-rating.png",
+            "header":"Creame Souce",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        }
+
+
+    ],
+    "Dessert": [
+        {
+            "image": "image/menu-img-4.jpg",
+            "star": "image/start-rating.png",
+            "header":"Ice Waffle",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        },
+        {
+            "image": "image/menu-img-1.jpg",
+            "star": "image/start-rating.png",
+            "header":"Browni with Ice Creame",
+            "para":"Sit amet, consectetur adipiscing elit maximus velit, non eleifend."
+
+        }
+    ]
+ }
