@@ -660,6 +660,13 @@ nav a:hover {
     }
 
 }
+@media(max-width:928px){
+    #restaurant-btn {
+        
+        margin-top: 21%;
+        margin-left: 12%;
+    }
+}
 
 @media(max-width:900px) {
     .restaurant {
@@ -675,6 +682,7 @@ nav a:hover {
         margin-top: 23%;
         margin-left: 12%;
     }
+    
 
     .photo img {
         height: 70vh;
@@ -742,6 +750,21 @@ nav a:hover {
         margin-left: -1%;
     }
 }
+@media(max-width:523px){
+    h4{
+        font-size: 11px;
+    }
+    .service h4 {
+        
+        font-size: 11px;
+    }
+}
+@media(max-width:475){
+    .service p {
+        font-size: 10px;
+       
+    }
+}
 
 @media(max-width:400px) {
     #logo-1 {
@@ -804,6 +827,10 @@ nav a:hover {
     #restaurant-btn {
         margin-top: 33%;
         margin-left: -3%;
+    }
+    .flex {
+        
+        margin: 110px 0px 0 -7px;
     }
 
 }
@@ -1686,6 +1713,7 @@ iframe{
     margin: 65px 43px;
     height: 50vh;
     border-radius: 25px;
+    width: auto;
 
 }
 #detail-head{
@@ -1803,6 +1831,15 @@ border-bottom: 1px solid beige;
                     width: 59%;
                     z-index: 1;
                 }
+}
+@media(max-width:558px){
+    iframe {
+        margin: 60px 0;
+        height: 50vh;
+        border-radius: 25px;
+        width: 100%;
+        /* margin: auto; */
+    }
 }
 .poster {
     display: flex;
