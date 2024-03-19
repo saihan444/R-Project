@@ -1741,6 +1741,82 @@ border-bottom: 1px solid beige;
         height: 189vh;
     }
 }
+@media(max-width:320px){
+    iframe {
+        margin: 40px 31px;
+        height: 50vh;
+        width: 78%;
+        
+    }
+    .poster {
+
+        margin-left: 42px }
+        .poster p {
+            font-size: 21px;
+        }
+        .aboutus {
+            margin: -125px -5px 15px;
+        }
+        .pricing {
+            margin-top: 462%;
+        }
+        .price-list-name {
+            height: 182vh;
+            
+        }
+        .discover {
+            display: flex;
+            flex-direction:column;
+            justify-content: center;
+            /* text-align: center; */
+            align-items: center;
+            line-height: 3rem;
+            margin-bottom: 17px;
+            margin: 10px;
+        height: 125vh;
+    }
+     #discover-btn {
+                width: 80%;
+            }
+            .details {
+                margin: 0px;
+                width: 83%;
+
+                margin-bottom: 15px;
+            }
+            #copy {
+                text-align: center;
+                font-size: 13px;
+            }
+            nav a {
+                display: inline-block;
+                margin-left: -97px;
+                font-size: 14px;
+                text-decoration: none;
+                font-family: sans-serif;
+                color: #eee;
+                text-transform: uppercase;
+                padding: 0px;}
+        .navbar-2 {
+                    
+                    height: 100vh;
+                    width: 59%;
+                    z-index: 1;
+                }
+}
+.poster {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    line-height: 2rem;
+    position: absolute;
+    top: 183px;
+    color: #fff;
+    font-weight: 500;
+   
+    width: 70%;
+}
 
 marquee{
     background: rgba(255, 166, 0, 0.833);
@@ -1901,7 +1977,7 @@ footer{
     
   }
   .navbarTwo a{
-    padding-left: 125px;
+    padding-left: 60px;
     font-size: 15px;
   }
         
